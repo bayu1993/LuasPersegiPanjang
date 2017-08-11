@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

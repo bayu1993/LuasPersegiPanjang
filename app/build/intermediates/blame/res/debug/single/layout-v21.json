@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/HitungLuas/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/dell/.android/build-cache/15ed2ff5d0a77cee76b13b10edfefbdbbaab0f3e/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
